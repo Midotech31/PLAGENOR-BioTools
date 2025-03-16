@@ -22,6 +22,7 @@ PLAGENOR Cloning Primer Designer is a graphical user interface (GUI) application
 
 ## Installation
 
+### Running from Source
 1. Ensure Python is installed on your system.
 2. Clone or download the repository.
 3. Navigate to the project directory.
@@ -29,6 +30,11 @@ PLAGENOR Cloning Primer Designer is a graphical user interface (GUI) application
    ```sh
    python primer_designer.py
    ```
+
+### Running the Executable
+1. Download `PLAGENOR_Primer_Designer.exe`.
+2. Double-click the executable file to launch the application.
+3. No additional dependencies are required.
 
 ## Usage
 
@@ -40,7 +46,7 @@ PLAGENOR Cloning Primer Designer is a graphical user interface (GUI) application
 
 ## Author
 
-Dr. Mohamed Merzoug
+Dr. Mohamed Merzoug  
 PLAGENOR, ESSBO - Algeria
 
 ## License
@@ -49,4 +55,4 @@ MIT License
 
 ## Acknowledgments
 
-Special thanks to the team of the Genomics Technology Platform of Higher School of Biological Sciences of Oran for their support in the development of this software.
+Special thanks to the team of the Genomics Technology Platform of the Higher School of Biological Sciences of Oran for their support in the development of this software.
